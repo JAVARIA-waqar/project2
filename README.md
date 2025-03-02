@@ -1,2 +1,3 @@
 # New Project
-this proect was created from local system
+This project was created from local system.
+by Javaria Waqar.
